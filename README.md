@@ -5,6 +5,7 @@
 ## Работоспособность проекта
 
 - Фильтры
+
 ![image](https://github.com/user-attachments/assets/5a4578f7-7e42-4e52-bb1a-590258308051)
 
 ![image](https://github.com/user-attachments/assets/80670f1c-2d42-4c29-9a52-5dee53e82e53)
