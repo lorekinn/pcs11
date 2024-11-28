@@ -1,0 +1,150 @@
+{
+   "checksum": "a645700b66208da95f3a6bbf6c435265",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319577650367155",
+            "date_last_used": "0",
+            "guid": "b7cd8b38-ca00-4d69-a9c9-55ca6e748f9e",
+            "id": "31",
+            "name": "Forestry-Пчеловодство — Minecraft Wiki",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://minecraft-ru.gamepedia.com/Forestry/%D0%9F%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650382818",
+            "date_last_used": "0",
+            "guid": "c6f7bddc-9a7b-4202-9199-f607c8e3dd98",
+            "id": "32",
+            "name": "Forestry-Пчеловодство — Playzone- Minecraft",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://playzone.in.ua/wiki/mc/Forestry/%D0%9F%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650382818",
+            "date_last_used": "0",
+            "guid": "2ca7dd87-00bd-43ec-abaf-51ab3a84c1e0",
+            "id": "33",
+            "name": "Land Lines - Chrome Experiments",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://lines.chromeexperiments.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650398478",
+            "date_last_used": "0",
+            "guid": "c528ebea-1c67-4a21-b2f2-dc4704d87b77",
+            "id": "34",
+            "name": "MrLazza - VimeTop - статистика игроков MiniGames",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://vimetop.ru/player/MrLazza",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650382818",
+            "date_last_used": "0",
+            "guid": "979ec669-9695-46b3-9a1e-798e8b888871",
+            "id": "35",
+            "name": "Peshenyshka - VimeTop - статистика игроков MiniGames",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://vimetop.ru/player/peshenyshka",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650398478",
+            "date_last_used": "0",
+            "guid": "d856e9f6-2684-48d9-b089-18385640c471",
+            "id": "36",
+            "name": "Иродов 1988 года - 1.30 - бесплатно скачать решение",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://exir.ru/new_irodov/1988/1_30.htm?ysclid=l7szmmqwda514896566",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650367155",
+            "date_last_used": "0",
+            "guid": "c6302aa4-479c-47c4-965c-b474173e0e44",
+            "id": "37",
+            "name": "Пчеловодство в Форестри, инструкция-гайд » Инструкции, гайды minecraft- ловушки, устройства",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://ru-minecraft.ru/instrukcii-gajdy-minecraft/16571-pchelovodstvo-pervye-shagi-forestry.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13317165821471520",
+            "date_last_used": "0",
+            "guid": "64c1303b-407f-424a-8abf-273af9f386e6",
+            "id": "38",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=575&clid=2384886-511",
+            "visit_count": 0
+         }, {
+            "date_added": "13317165821472017",
+            "date_last_used": "0",
+            "guid": "ae1bbe1b-2db1-438c-b861-d6c9bb30c232",
+            "id": "39",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=575&clid=2384883-511&from=dist_bookmark",
+            "visit_count": 0
+         }, {
+            "date_added": "13319577650351489",
+            "date_last_used": "0",
+            "guid": "a2e7866a-2017-4e56-aea6-4cfbf056a92d",
+            "id": "40",
+            "name": "разведение пчел forestry- 9 тыс. видео найдено в Яндекс.Видео",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://yandex.ru/video/",
+            "visit_count": 0
+         } ],
+         "date_added": "13372158150387062",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13372158150387064",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372158150387065",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOQf1ymTAQAAEgAqGE9hUnNGcklhb1JCcXBZZWtFbzlqTWc9PUgDoAYMEq0BCCgSqAEKHEJtaWI0QS8wUmllYTNDTjUzcTRGZUNkdnlyTT0SJGEyZTc4NjZhLTIwMTctNGU1Ni1hZWE2LTRjZmJmMDU2YTkyZBgAIAEoATC4mb68sjI4m/S9vLIyQJv0vbyyMkocQ2YxYXNwc0VPL0kxZitiRzR4cVBlK3FyUTZBPVofIh3/dU9vR1JQZ1JRVFU1OGUvbkdpZGNIN2U0SXNzPWUAAAAAwj4CYAISrQEIIxKoAQocdWU1cjBNNkxpOXVnSnRnTUtnQ3NxQnNlbVlVPRIkOTc5ZWM2NjktOTY5NS00NmIzLTlhMWUtNzk4ZThiODg4ODcxGAAgASgBMLGZvryyMjib9L28sjJAm/S9vLIyShxuQlMyWkNDbkJtSktPRDdwdTRyOGNkZXlDd3c9Wh8iHe1DTU5NWW9LSXc2eVJydFdhVW1yNm1SeEExc0U9ZQAAAADCPgJgAhKtAQgnEqgBChxBN2NNT1I5VHRlNzJRN3J2OWhXeHFPQ21FaXM9EiRhZTFiYmUxYi0yZGIxLTQzOGMtYjg2MS1kNmM5YmIzMGMyMzIYACABKAEwtpm+vLIyOJv0vbyyMkCb9L28sjJKHEwzWDEvSHl0cjEzR2M2V0hvczJhSGJxMm41Yz1aHyId/kZnelh3dVB3b3pjRW14YTViSTRFVGVIM1lHYz1lAAAAAMI+AmACEq0BCCYSqAEKHFhhUXJid2hWYmV2Slk1Y2Y5Q3Yzd0U3ZXREUT0SJDY0YzEzMDNiLTQwN2YtNDI0YS04YWJmLTI3M2FmOWYzODZlNhgAIAEoATC1mb68sjI4m/S9vLIyQJv0vbyyMkocSHI0SWdXc0pTYzJHYnFTRkZXOVRwVWtWTUU0PVofIh39T3hwNWNkZnk5ckVOYVlKQ0RvYnRvQlgwZnFFPWUAAAAAwj4CYAISjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZGZiMGY1NDktMzhkMC01NDM3LWFlMGUtYWE3YjVjNjIzMDhiGAAgACgAMM2039bXLjiF1qeogTBAhdanqIEwShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEq0BCCUSqAEKHFllVTVxVXBGdUkza1lqSldkWlBtN3Nyd2svMD0SJGM2MzAyYWE0LTQ3OWMtNDdjNC05NjVjLWI0NzQxNzNlMGU0NBgAIAEoATCzmb68sjI4m/S9vLIyQJv0vbyyMkocekpIT3ErT29nRFZvNmozaTBmZmIya2hxWHBFPVofIh37aHcrN3lDOTlrY3lNd090aWtoMjViWlhiUFFZPWUAAAAAwj4CYAISrQEIJBKoAQocaUthTlBNTlJ6MVAvczBnVCtmZXE5c3dVaVlVPRIkZDg1NmU5ZjYtMjY4NC00OGQ5LWIwODktMTgzODU2NDBjNDcxGAAgASgBMLKZvryyMjib9L28sjJAm/S9vLIyShw1RUZXdUNLbkZKZFRkQkJXd1A5b1hPS0Y4V1k9Wh8iHfZETmE5dStURTVVYzBKNDRtbmpnZTZCMW5hanM9ZQAAAADCPgJgAhKsAQgfEqcBChx2MUIyMEZBbGloNDRhbDVrVlJYazB5MTExOWc9EiRiN2NkOGIzOC1jYTAwLTRkNjktYTljOS01NWNhNmU3NDhmOWUYACABKAEwr5m+vLIyOJv0vbyyMkCb9L28sjJKHHRWcTJXN09lY201bVU0RmVyN1FXdzdxSmFHST1aHiIcSElLVGhkcGloa0Q3bXl1Nk5vdVpDOWkraXhVPWUAAAAAwj4CYAISrQEIIhKoAQocZEhva2VqNUdTaHd6NFFMc1BoNW10cTlMZjBVPRIkYzUyOGViZWEtMWM2Ny00YTIxLWIyZjItZGM0NzA0ZDg3Yjc3GAAgASgBMLCZvryyMjib9L28sjJAm/S9vLIyShxtdEZpWDVUNHNjNGErQlEvRVF4Nms1SXlZdlU9Wh8iHdpodTgrNWJkcXJLVXNvbHBlZThWNXhIYUR6cDQ9ZQAAAADCPgJgAhKtAQghEqgBChxYRXhDY0hXUW03U2VYL2U3NTZuODl2Y0FhRlE9EiQyY2E3ZGQ4Ny0wMGJkLTQzZWMtYWJhZi01MWFiM2E4NGMxZTAYACABKAEwtJm+vLIyOJv0vbyyMkCb9L28sjJKHEZJc0tKTWl5dHp4SnE1SVE3MDAwM0hRdkJPUT1aHyIdtVFxdlRJTU95SitPbnlZVkJtajlxS1Zzck9pMD1lAAAAAMI+AmACEqwBCCASpwEKHEJ6WHF3akJXK1NxOGdHYk5DSXIwZW5IZWdFaz0SJGM2ZjdiZGRjLTlhN2ItNDIwMi05MTk5LWY2MDdjOGUzZGQ5OBgAIAEoATC3mb68sjI4m/S9vLIyQJv0vbyyMkocY2tGNVV0NW1YZXI0VnBnU1hXNVU3Q251MFZRPVoeIhxqVFY1SHBvN2hkbEk3b0VNTE0wRisyZHovalE9ZQAAAADCPgJgAhKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmOWNiY2ZjZS0wMGU5LTViYjUtYjdhOS04NTAwZmYwOGY4OWEYACAAKAAwyLTf1tcuOKjVp6iBMECo1aeogTBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMTU0MTIyZmQtZTFhZC01ZjU4LTg5OTItMWVkZDhiMjA3NWI2GAAgACgAMMm039bXLji31aeogTBAt9WnqIEwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
