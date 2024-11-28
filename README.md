@@ -1,20 +1,19 @@
-<<<<<<< HEAD
-# app1
+# Практическая работа #11
 
-A new Flutter project.
+Михайлов Денис ЭФБО-06-22
 
-## Getting Started
+## Работоспособность проекта
 
-This project is a starting point for a Flutter application.
+- Фильтры
+![image](https://github.com/user-attachments/assets/5a4578f7-7e42-4e52-bb1a-590258308051)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/80670f1c-2d42-4c29-9a52-5dee53e82e53)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Поиск
+![image](https://github.com/user-attachments/assets/c8f045f8-c341-48e7-8449-600f121c9aeb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+
+- История заказов (кнопка "история заказов" в личном кабинете)
+![image](https://github.com/user-attachments/assets/a2b5371d-4a3a-4b9a-8fdb-b7b11914b4da)
+
+![image](https://github.com/user-attachments/assets/aaba8012-0525-48c1-aede-abdab3d3a626)
